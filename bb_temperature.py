@@ -1,3 +1,7 @@
+"""
+    Aurthor: Lindsay Martinescu
+"""
+
 from Blackbody import Blackbody
 
 def bb_temperature(wavelength, radiance, epsilon = 1e-8):
