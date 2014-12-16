@@ -1,3 +1,7 @@
+"""
+    Aurthor: Lindsay Martinescu
+"""
+
 import turtle
 def crossRec(n,s):
     turtle.forward(s)
