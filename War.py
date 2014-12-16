@@ -1,3 +1,7 @@
+"""
+    Aurthor: Lindsay Martinescu
+"""
+
 import random
 from collections import deque
 
