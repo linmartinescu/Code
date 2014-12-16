@@ -1,3 +1,7 @@
+"""
+    Aurthor: Lindsay Martinescu
+"""
+
 import math
 
 class Blackbody(object):
