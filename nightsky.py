@@ -1,3 +1,7 @@
+"""
+    Aurthor: Lindsay Martinescu
+"""
+
 import turtle
 import random
 
